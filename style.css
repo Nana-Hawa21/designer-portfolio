@@ -1,0 +1,222 @@
+* {
+    outline: 1px solid red;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin:0px;
+    background-color: #F4F4F4;
+}
+
+.header li{
+    color:rgb(32, 36, 83, 0.89);
+    list-style:none;
+    display:inline-block;
+    margin-right:10px;
+    margin-left:16px;
+    font-family: 'Syne', sans-serif;
+    font-size:133%;  
+    font-weight:800%;
+    
+}
+.header li:hover{
+    color:#e43f5a;
+}
+
+#isolate{
+    color:white;
+    border:2px solid #e43f5a;
+    border-radius:5px;
+    background-color:#e43f5a;
+    font-family: 'Poppins', sans-serif;
+    font-size:83%;
+    font-weight:bold;
+    padding:12px 23px 12px 23px;
+    }
+#isolate:hover{
+    color:black;
+}
+.navigationbar{
+    text-align:right;
+    margin-right:70px;
+    margin-top:0px;
+}
+.container{
+    background-image:url(womaninglasses.jpg);
+    background-size:cover;
+    margin-top:0px;
+}
+.layer{
+    background-color:rgba(19, 20, 36,0.8);
+    
+}
+.welcome{
+    color:white;
+    text-align:left;
+    padding-top:100px;
+    padding-bottom:100px;
+    padding-right:100px;
+    padding-left:120px;
+    line-height:27px;
+}
+
+.whatido{
+    text-align:center;
+    color:#162447;
+    font-family:'Poppins', sans-serif; 
+    font-size:26px;
+    font-weight:bold;
+    margin-top:80px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:0px;
+}
+
+.ib{
+    background-color:white;
+    width:310px;
+    height:270px;
+    margin:15px;
+    margin-bottom:0px;
+    padding-top:20px;
+}
+
+.i{
+    background-color:rgba(22, 36, 71, 0.089);
+    margin:107px;
+    padding:23px;
+    margin-top:0px;
+    margin-bottom:0px;
+    border-radius:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.new{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+
+}
+
+.heading{
+    font-family: 'poppins', sans-serif;
+    font-size:16px;
+    font-weight:bold;
+    color:#162447;
+    text-align:center;
+}
+
+.exceptional{
+    font-family: 'poppins', sans-serif;
+    font-size:15px;
+    font-weight:20%;
+    color:rgba(24, 26, 46, 0.8);
+    text-align:center;
+}
+
+.plain{
+    background-color:#e43f5a;
+    width:200px;
+    height:540px;
+}
+.womansmiling{
+    width:345px; 
+    height:500px;
+    padding:20px;
+}
+
+.third{
+    display:flex;
+    flex:flex-wrap;
+    justify-content:center;
+}
+
+.para{
+    padding-left:215px;
+    font-family: 'poppins', sans-serif;
+    font-size:15px;
+    font-weight:20%;
+    color:rgba(24, 26, 46, 0.8);
+}
+
+.blue{
+    height:250px;
+    margin-top:60px;
+    background-color:#162447;
+    display:flex;
+    flex:flex-wrap;
+    justify-content:center;
+    align-items:center;
+}
+
+
+.blue li{
+    color:white;
+    list-style:none;
+    display:inline-block;
+    font-family: 'poppins', sans-serif;
+    font-size:30px;; 
+    font-weight:bold;
+    padding:40px;
+    padding-top:30px;
+    
+}
+.number{
+    text-align:center;
+}
+
+.under{
+    color:white;
+    font-family: 'poppins', sans-serif;
+    font-size:15px;
+    font-weight:bold;  
+}
+
+.takealook{
+    text-align:center;
+    font-family: 'poppins', sans-serif;
+    color:rgba(24, 26, 46, 0.8);
+    font-size:15px;
+}
+
+
+.whatido-blue {
+    flex-direction: column;
+}
+
+.whatido2{
+    color:white;
+    text-align:center;
+    font-family:'Poppins', sans-serif; 
+    font-size:24px;
+    font-weight:bold;
+    /*display:flex;
+    justify-content:center;
+    align-items:center;*/
+
+}
+
+.takealook2{
+   color:white;
+   text-align:center;
+   font-family: 'poppins', sans-serif;
+   font-size:15px;
+}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
